@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="life.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="simulation.cpp" />
+    <ClCompile Include="matrix.cpp" />
+    <ClCompile Include="bigblink.cpp" />
+    <ClCompile Include="boat.cpp" />
+    <ClCompile Include="snake.cpp" />
+    <ClCompile Include="box.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="life.h" />
+    <ClInclude Include="simulation.h" />
+    <ClInclude Include="matrix.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="bigblink.h" />
+    <ClInclude Include="boat.h" />
+    <ClInclude Include="snake.h" />
+    <ClInclude Include="box.h" />
+  </ItemGroup>
+</Project>
